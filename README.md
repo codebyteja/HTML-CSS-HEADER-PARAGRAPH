@@ -1,1 +1,1 @@
-# HTNL-CSS
+# HTML-CSS
